@@ -6526,7 +6526,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "micks-tech"
+name = "rustdesk"
 version = "1.4.2"
 dependencies = [
  "android-wakelock",
